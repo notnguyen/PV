@@ -1,0 +1,15 @@
+C:\Users\nguyen4\source\repos\20240503\bin\Debug\net6.0\20240503.exe
+C:\Users\nguyen4\source\repos\20240503\bin\Debug\net6.0\20240503.deps.json
+C:\Users\nguyen4\source\repos\20240503\bin\Debug\net6.0\20240503.runtimeconfig.json
+C:\Users\nguyen4\source\repos\20240503\bin\Debug\net6.0\20240503.dll
+C:\Users\nguyen4\source\repos\20240503\bin\Debug\net6.0\20240503.pdb
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.csproj.AssemblyReference.cache
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.AssemblyInfoInputs.cache
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.AssemblyInfo.cs
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.csproj.CoreCompileInputs.cache
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.dll
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\refint\20240503.dll
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.pdb
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\20240503.genruntimeconfig.cache
+C:\Users\nguyen4\source\repos\20240503\obj\Debug\net6.0\ref\20240503.dll
