@@ -11,4 +11,5 @@ if __name__ == "__main__":
   print("ZACATEK PROGRAMU")
   p1 = multiprocessing.Process(target=vypis_cisel)
   p1.start()
+  p1.join() # Hlavní proces počká na dokončení paralelního procesu
   print("KONEC PROGRAMU")
